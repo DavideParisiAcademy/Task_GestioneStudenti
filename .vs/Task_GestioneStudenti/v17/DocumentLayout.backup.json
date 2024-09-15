@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\source\\repos\\Task_GestioneStudenti\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5AC905-F107-44BF-9F23-7A8BC624022C}|Task_GestioneStudenti\\Task_GestioneStudenti.csproj|c:\\users\\utente\\source\\repos\\task_gestionestudenti\\task_gestionestudenti\\classes\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5AC905-F107-44BF-9F23-7A8BC624022C}|Task_GestioneStudenti\\Task_GestioneStudenti.csproj|solutionrelative:task_gestionestudenti\\classes\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5AC905-F107-44BF-9F23-7A8BC624022C}|Task_GestioneStudenti\\Task_GestioneStudenti.csproj|c:\\users\\utente\\source\\repos\\task_gestionestudenti\\task_gestionestudenti\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5AC905-F107-44BF-9F23-7A8BC624022C}|Task_GestioneStudenti\\Task_GestioneStudenti.csproj|solutionrelative:task_gestionestudenti\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5AC905-F107-44BF-9F23-7A8BC624022C}|Task_GestioneStudenti\\Task_GestioneStudenti.csproj|c:\\users\\utente\\source\\repos\\task_gestionestudenti\\task_gestionestudenti\\classes\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5AC905-F107-44BF-9F23-7A8BC624022C}|Task_GestioneStudenti\\Task_GestioneStudenti.csproj|solutionrelative:task_gestionestudenti\\classes\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A5AC905-F107-44BF-9F23-7A8BC624022C}|Task_GestioneStudenti\\Task_GestioneStudenti.csproj|c:\\users\\utente\\source\\repos\\task_gestionestudenti\\task_gestionestudenti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A5AC905-F107-44BF-9F23-7A8BC624022C}|Task_GestioneStudenti\\Task_GestioneStudenti.csproj|solutionrelative:task_gestionestudenti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 191,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lista.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task_GestioneStudenti\\Task_GestioneStudenti\\Classes\\Lista.cs",
+              "RelativeDocumentMoniker": "Task_GestioneStudenti\\Classes\\Lista.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task_GestioneStudenti\\Task_GestioneStudenti\\Classes\\Lista.cs",
+              "RelativeToolTip": "Task_GestioneStudenti\\Classes\\Lista.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAowIAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T08:57:52.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Studente.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task_GestioneStudenti\\Task_GestioneStudenti\\Classes\\Studente.cs",
+              "RelativeDocumentMoniker": "Task_GestioneStudenti\\Classes\\Studente.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task_GestioneStudenti\\Task_GestioneStudenti\\Classes\\Studente.cs",
+              "RelativeToolTip": "Task_GestioneStudenti\\Classes\\Studente.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwBgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T08:19:04.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task_GestioneStudenti\\Task_GestioneStudenti\\Classes\\Persona.cs",
+              "RelativeDocumentMoniker": "Task_GestioneStudenti\\Classes\\Persona.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task_GestioneStudenti\\Task_GestioneStudenti\\Classes\\Persona.cs",
+              "RelativeToolTip": "Task_GestioneStudenti\\Classes\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T08:16:56.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task_GestioneStudenti\\Task_GestioneStudenti\\Program.cs",
+              "RelativeDocumentMoniker": "Task_GestioneStudenti\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task_GestioneStudenti\\Task_GestioneStudenti\\Program.cs",
+              "RelativeToolTip": "Task_GestioneStudenti\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwDkAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T08:14:16.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
